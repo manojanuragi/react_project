@@ -1,0 +1,16 @@
+.ProductCard {
+  border: 1px solid red;
+  padding: 10px;
+  text-align: center;
+  margin: 20px;
+  color: red;
+  width: 200px;
+  height: 100px;
+  background-color: white;
+}
+
+.ProductCard:hover {
+  cursor: pointer;
+  border: 1px solid black;
+  box-shadow: -1px 4px 10px black;
+}
